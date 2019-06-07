@@ -1,5 +1,7 @@
 # Architecture
 
+Opinionated architectural guidance.
+
 ## Configuration Management
 
 ### Git Flow
