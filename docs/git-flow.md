@@ -125,4 +125,3 @@
 
 - <http://nvie.com/posts/a-successful-git-branching-model/>
 - <https://help.github.com/articles/using-pull-requests#shared-repository-model>
-
